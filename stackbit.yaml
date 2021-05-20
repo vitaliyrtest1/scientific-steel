@@ -3,7 +3,7 @@ ssgName: jekyll
 ssgVersion: "4.1"
 buildCommand: bundle exec jekyll build
 publishDir: '_site'
-staticDir: 'assets'
+staticDir: ''
 uploadDir: 'images'
 dataDir: '_data'
 pagesDir: ''
